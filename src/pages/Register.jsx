@@ -1,7 +1,7 @@
 import { Fragment } from "react";
 import {Link} from 'react-router-dom';
 import NavBar from "../components/NavBar";
-import AppContainer from "../components/Container";
+import AppContainer from "../components/AppContainer";
 import { Card, CardContent, Grid, TextField, Button, Typography } from "@material-ui/core";
 
 const Register = () => {
